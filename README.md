@@ -1,6 +1,10 @@
+[Photography & Graphic Design](https://digiulioem.myportfolio.com) • [GitHub](https://github.com/perilstar) • [Scratch](https://scratch.mit.edu/users/perilstar/) • [Steam](https://steamcommunity.com/id/perilstar/)
+
+===
+
 ## Hi!
 
-I'm Erica, but I also go by the usernames cinder, cinderwolf, peril, and perilstar.
+I'm Erica, but I also go by the usernames cinder, cinderwolf, peril, and perilstar. You can reach me on Discord by adding Cinder#1024.
 
 Here are some of my projects.
 
