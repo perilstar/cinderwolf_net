@@ -1,9 +1,14 @@
 ---
 ---
 
-$header: $rajah !default;
 @import "{{ site.theme }}";
+
+$header: $rajah !default;
 
 #downloads {
   display: none;
+}
+
+header {
+  border-bottom: 1px dashed $raw-sienna; //header;
 }
