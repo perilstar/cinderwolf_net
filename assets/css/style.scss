@@ -1,9 +1,9 @@
 ---
 ---
 
+$header: $rajah !default;
 @import "{{ site.theme }}";
 
-// test
-body {
-  background: red !important;
+#downloads {
+  display: none;
 }
