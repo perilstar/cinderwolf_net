@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-$header: $rajah !default;
+$header: $rajah;
 
 #downloads {
   display: none;
@@ -11,4 +11,8 @@ $header: $rajah !default;
 
 header {
   border-bottom: 1px dashed $raw-sienna; //header;
+  h1 {
+    color: $rajah;
+  }
 }
+
