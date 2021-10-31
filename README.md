@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Hi!
 
-You can use the [editor on GitHub](https://github.com/perilstar/cinderwolf_net/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Erica, but I also go by the usernames cinder, cinderwolf, peril, and perilstar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are some of my projects.
 
-### Markdown
+### Raycaster
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Originally I created this project in Scratch as a challenge for myself. Then I decided I wanted to add new featues to it and make it more performant, so I re-wrote it in JavaScript. It uses the CPU only in a single thread to do all the rendering, and then throws the result to the GPU for a CRT post-processing shader. Be warned: The code is messy and uncommented as I ported it at a time I already had forgotten what the Scratch code did.
 
-```markdown
-Syntax highlighted code block
+[![Raycaster](/assets/images/view.png)](https://cinderwolf.net/projects/raycaster)
 
-# Header 1
-## Header 2
-### Header 3
+### YT1S Bookmark Button
 
-- Bulleted
-- List
+If you're as frustrated as I am with wasting precious milliseconds of your life every time you want to download a youtube video, this small bookmark script will help you.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+It executes the following code when you click it:
+```javascript
+  if (/(\w+\.)*youtube.com/.test(window.location.host)) {
+    window.open(`https://yt1s.com/en?q=${encodeURIComponent(window.location)}`, '_blank')
+      .focus();
+  }
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/perilstar/cinderwolf_net/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![YT1S Bookmark Button](/assets/images/view.png)](https://cinderwolf.net/projects/yt1s-boomkark-button)
