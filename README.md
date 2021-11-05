@@ -14,6 +14,12 @@ Originally I created this project in Scratch as a challenge for myself. Then I d
 
 [![Raycaster](/assets/images/view.png)](https://cinderwolf.net/projects/raycaster)
 
+### Virtual Bubble Wrap
+
+We all get stressed out sometimes. Luckily, I've got a scientifically proven cure for anxiety right here, on this webpage.
+
+[![Virtual Bubble Wrap](/assets/images/view.png)](https://cinderwolf.net/projects/bubblewrap)
+
 ### YT1S Bookmark Button
 
 If you're as frustrated as I am with wasting precious milliseconds of your life every time you want to download a youtube video, this small bookmark script will help you.
