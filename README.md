@@ -33,3 +33,9 @@ It executes the following code when you click it:
 ```
 
 [![YT1S Bookmark Button](/assets/images/view.png)](https://cinderwolf.net/projects/yt1s-bookmark-button)
+
+### Easing Function Generator
+
+I wanted a bezier curve easing function generator that output JavaScript code. So I made one!
+
+[![BezierFn](/assets/images/view.png)](https://cinderwolf.net/projects/bezierfn)
