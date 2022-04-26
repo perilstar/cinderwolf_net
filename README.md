@@ -20,19 +20,19 @@ We all get stressed out sometimes. Luckily, I've got a scientifically proven cur
 
 [![Virtual Bubble Wrap](/assets/images/view.png)](https://cinderwolf.net/projects/bubblewrap)
 
-### YT1S Bookmark Button
+### YT5S Bookmark Button
 
 If you're as frustrated as I am with wasting precious milliseconds of your life every time you want to download a youtube video, this small bookmark script will help you.
 
 It executes the following code when you click it:
 ```javascript
   if (/(\w+\.)*youtube.com/.test(window.location.host)) {
-    window.open(`https://yt1s.com/en?q=${encodeURIComponent(window.location)}`, '_blank')
+    window.open(`https://yt5s.com/en?q=${encodeURIComponent(window.location)}`, '_blank')
       .focus();
   }
 ```
 
-[![YT1S Bookmark Button](/assets/images/view.png)](https://cinderwolf.net/projects/yt1s-bookmark-button)
+[![YT5S Bookmark Button](/assets/images/view.png)](https://cinderwolf.net/projects/yt5s-bookmark-button)
 
 ### Easing Function Generator
 
