@@ -14,6 +14,12 @@ Originally I created this project in Scratch as a challenge for myself. Then I d
 
 [![Raycaster](/assets/images/view.png)](https://cinderwolf.net/projects/raycaster)
 
+### Time Tracker
+
+This is a time-tracking web app that stores time entries in the browser's local storage. I didn't like how long it took me to enter time on my work's time reporting system, so I made this to compliment it as a sort of scratchpad. At the end of the week, I copy the data from the app to my work's time reporting system. Note: It looks terrible on mobile.
+
+[![Time Tracker](/assets/images/view.png)](https://time-tracker.work)
+
 ### Virtual Bubble Wrap
 
 We all get stressed out sometimes. Luckily, I've got a scientifically proven cure for anxiety right here, on this webpage.
