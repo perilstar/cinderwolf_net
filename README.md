@@ -4,8 +4,6 @@
 
 I'm Erica, but I also go by the usernames cinder, cinderwolf, peril, and perilstar. You can reach me on Discord by adding Cinder#1024.
 
-I have a small private Minecraft server that you can learn about **[here](https://cinderwolf.net/mc)**.
-
 Here are some of my projects.
 
 ### Raycaster
