@@ -2,7 +2,7 @@
 
 ## Hi!
 
-I'm Erica, but I also go by the usernames cinder, cinderwolf, peril, and perilstar. You can reach me on Discord by adding Cinder#1024.
+I'm Erica, but I also go by the usernames cinder, cinderwolf, peril, and perilstar. You can reach me on Discord by adding `@cinder.wolf`.
 
 Here are some of my projects.
 
