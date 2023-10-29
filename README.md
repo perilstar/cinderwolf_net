@@ -1,4 +1,4 @@
-[Photography & Graphic Design](https://digiulioem.myportfolio.com) • [GitHub](https://github.com/perilstar) • [Scratch](https://scratch.mit.edu/users/perilstar/) • [Steam](https://steamcommunity.com/id/perilstar/)
+[Photography & Graphic Design](art) • [GitHub](github) • [Scratch](scratch) • [Steam](steam)
 
 ## Hi!
 
@@ -10,7 +10,7 @@ Here are some of my projects.
 
 Originally I created this project in Scratch as a challenge for myself. Then I decided I wanted to add new featues to it and make it more performant, so I re-wrote it in JavaScript. It uses the CPU only in a single thread to do all the rendering, and then throws the result to the GPU for a CRT post-processing shader. Be warned: The code is messy and uncommented as I ported it at a time I already had forgotten what the Scratch code did.
 
-[![Raycaster](/assets/images/view.png)](https://cinderwolf.net/projects/raycaster)
+[![Raycaster](/assets/images/view.png)](projects/raycaster)
 
 ### Time Tracker
 
@@ -22,7 +22,7 @@ This is a time-tracking web app that stores time entries in the browser's local 
 
 We all get stressed out sometimes. Luckily, I've got a scientifically proven cure for anxiety right here, on this webpage.
 
-[![Virtual Bubble Wrap](/assets/images/view.png)](https://cinderwolf.net/projects/bubblewrap)
+[![Virtual Bubble Wrap](/assets/images/view.png)](projects/bubblewrap)
 
 ### YT5S Bookmark Button
 
@@ -36,10 +36,10 @@ It executes the following code when you click it:
   }
 ```
 
-[![YT5S Bookmark Button](/assets/images/view.png)](https://cinderwolf.net/projects/yt5s-bookmark-button)
+[![YT5S Bookmark Button](/assets/images/view.png)](projects/yt5s-bookmark-button)
 
 ### Easing Function Generator
 
 I wanted a bezier curve easing function generator that output JavaScript code. So I made one!
 
-[![BezierFn](/assets/images/view.png)](https://cinderwolf.net/projects/bezierfn)
+[![BezierFn](/assets/images/view.png)](projects/bezierfn)
