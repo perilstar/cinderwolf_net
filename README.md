@@ -1,5 +1,5 @@
 <script type="application/javascript">(()=>{if(window.location.host==='perilstar.github.io'){window.location.replace('//cinderwolf.net')}})()</script>
-[Photography & Graphic Design](art) • [GitHub](github) • [Scratch](scratch) • [Steam](steam)
+[Art](art) • [Dev](github)
 
 ## Hi!
 
