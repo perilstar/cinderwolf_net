@@ -3,9 +3,9 @@
 
 ## Hi!
 
-I'm Erica, but I also go by the usernames cinder, cinderwolf, peril, and perilstar. You can reach me on Discord by adding <strong>@cinder.wolf</strong>.
+I'm Erica, but I also go by other usernames like Cinder and perilstar. Note: there are other people that use some of the same usernames, they're not all me!
 
-Here are some of my projects.
+Here are a few of my projects that I like.
 
 ### Raycaster
 
@@ -13,31 +13,11 @@ Originally I created this project in Scratch as a challenge for myself. Then I d
 
 [![Raycaster](/assets/images/view.png)](projects/raycaster)
 
-### Time Tracker
-
-This is a time-tracking web app that stores time entries in the browser's local storage. I didn't like how long it took me to enter time on my work's time reporting system, so I made this to compliment it as a sort of scratchpad. At the end of the week, I copy the data from the app to my work's time reporting system. Note: It looks terrible on mobile.
-
-[![Time Tracker](/assets/images/view.png)](https://time-tracker.work)
-
 ### Virtual Bubble Wrap
 
 We all get stressed out sometimes. Luckily, I've got a scientifically proven cure for anxiety right here, on this webpage.
 
 [![Virtual Bubble Wrap](/assets/images/view.png)](projects/bubblewrap)
-
-### YT5S Bookmark Button
-
-If you're as frustrated as I am with wasting precious milliseconds of your life every time you want to download a youtube video, this small bookmark script will help you.
-
-It executes the following code when you click it:
-```javascript
-  if (/(\w+\.)*youtube.com/.test(window.location.host)) {
-    window.open(`https://yt5s.com/en?q=${encodeURIComponent(window.location)}`, '_blank')
-      .focus();
-  }
-```
-
-[![YT5S Bookmark Button](/assets/images/view.png)](projects/yt5s-bookmark-button)
 
 ### Easing Function Generator
 
