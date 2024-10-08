@@ -3,3 +3,5 @@ title: "cinderwolf_net"
 description: "code 'n' games 'n' stuff"
 show_downloads: false
 include: ["favicon-16x16.png", "favicon-32x32.png", "cinderwolf.png"]
+url: https://cinderwolf.net
+baseurl: ''
