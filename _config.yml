@@ -1,7 +1,6 @@
 theme: jekyll-theme-hacker
 title: "cinderwolf_net"
-tagline: "code 'n' games 'n' stuff"
-description: "I'm Erica AKA Cinder or perilstar and this is my personal website. Here you can find some of the things I've made."
+description: "code 'n' games 'n' stuff"
 show_downloads: false
 include: ["favicon-16x16.png", "favicon-32x32.png", "cinderwolf.png"]
 url: https://cinderwolf.net
